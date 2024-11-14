@@ -1,1 +1,3 @@
 # Helm chart values
+controller:
+  disableRestrictedSgRules: true
